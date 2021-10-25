@@ -17,5 +17,5 @@ public class Main {
 		int[] a = createArray(10, 1, 10);
 		Sort.sort(a);
 		System.out.println(Arrays.toString(a));
-	}
+	}//수정하자
 }
