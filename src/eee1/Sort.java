@@ -12,5 +12,5 @@ public class Sort {
 					break;
 			a[j + 1] = value;
 		}
-	}
+	}//수정함 구현 완료함
 }
